@@ -107,3 +107,4 @@ venv.bak/
 
 synpuf1k*
 *.db
+jupyter_notebook_config.py
